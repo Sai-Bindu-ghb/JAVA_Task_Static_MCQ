@@ -1,0 +1,1 @@
+# JAVA_Task_Static_MCQ
